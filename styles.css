@@ -105,6 +105,7 @@ header a:hover{
 }
 .btn{
     background-color: #5A67D8;
+    float: right;
 }
 
 .btn.form-group{
