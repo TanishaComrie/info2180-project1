@@ -52,7 +52,7 @@ a:hover{
     color: white;
 }
 
-#cta{
+.testing>#cta{
     background-color: #48BB78;
     box-shadow: 5px 5px;
 }
@@ -77,7 +77,7 @@ a:hover{
     background-color: #48BB78;
     color: white;
 }
-.newsletter>button{
+#btn{
     background-color: #5A67D8;
 }
 
