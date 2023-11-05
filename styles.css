@@ -63,21 +63,21 @@ header a:hover{
     font-size: 24px;
 }
 
-.card{
+.cards{
     display: grid;
     grid-template-columns: auto;
     background-color: blue;
-    grid-gap: 10px
+    grid-gap: 10px;
+    box-shadow: 5px 5px #E2E8F0;
 }
 
 .card img{
     width: 150px;
 }
 
-.body-card{
-    box-shadow: 5px 5px #E2E8F0;
-    background-color: #48BB78;
-}
+/*.body-card{
+    
+}*/
 
 .learn-about h3{
     color: #48BB78;
@@ -119,8 +119,8 @@ header a:hover{
     background-color: #5A67D8;
 }
 
-.btn.form-group{
-    display:flex;
+.form{
+    display:inline;
 }
 
 footer{
