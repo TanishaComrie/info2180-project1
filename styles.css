@@ -43,6 +43,7 @@ li a{
     display: block;
     background-color: #6b7280;
     padding: 15px;
+    float: right;
 }
 
 header a:hover{
