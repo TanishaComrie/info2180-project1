@@ -117,7 +117,7 @@ header a:hover{
     display: block;
 }
 
-.newsletter h1,p{
+.newsletter h3,p{
     text-align: center;
 }
 .btn{
@@ -129,6 +129,7 @@ header a:hover{
     display:inline;
     padding: 10px;
     border: none;
+    align-content: center;
 }
 
 footer{
