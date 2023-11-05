@@ -114,6 +114,10 @@ article-body{
     float: left;
 }
 
+article img, article-body{
+    display: inline;
+}
+
 .newsletter{
     background-color: #48BB78;
     color: white;
