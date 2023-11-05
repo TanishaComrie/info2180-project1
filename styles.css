@@ -121,6 +121,8 @@ header a:hover{
 
 .form-group, .btn{
     display:inline;
+    padding: 10px;
+    border: none;
 }
 
 footer{
