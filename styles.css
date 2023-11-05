@@ -114,6 +114,7 @@ header a:hover{
     background-color: #48BB78;
     color: white;
     align-content: center;
+    display: block;
 }
 .btn{
     color: white;
