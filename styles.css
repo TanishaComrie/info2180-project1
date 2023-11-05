@@ -54,7 +54,7 @@ header a:hover{
     width: 2px;    
 }
 
-.overview-hero-text{
+.overview-hero-text h2,p{
     text-align: right;
 }
 
