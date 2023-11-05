@@ -33,7 +33,7 @@ a:hover{
     background-color: #E2E8F0;
 }
 
-.learn-about > h2{
+.learn-about h2{
     color: #48BB78;
     font-size: 24px;
 }
@@ -42,7 +42,7 @@ a:hover{
     box-shadow: 5px 5px #E2E8F0;
 }
 
-.learn-about > h3{
+.learn-about h3{
     color: #48BB78;
     font-size: 21px;
 }
