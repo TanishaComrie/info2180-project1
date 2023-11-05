@@ -65,12 +65,14 @@ header a:hover{
 
 .card{
     display: grid;
-    grid-template-rows: auto auto auto;
+    grid-template-columns: auto;
     background-color: blue;
+    grid-gap: 10px
 }
 
 .card img{
     width: 150px;
+    background-color: #48BB78;
 }
 
 .body-card{
