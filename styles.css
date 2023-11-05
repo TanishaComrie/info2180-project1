@@ -28,12 +28,15 @@ header {
 
 ul{
     list-style-type: none;
+    overflow: hidden;
     margin:0;
     padding:0;
+    float: right;
 }
 
 li{
     display: inline;
+    nav-right: auto;
 }
 
 li a{
