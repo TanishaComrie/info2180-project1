@@ -50,9 +50,10 @@ header a:hover{
     background-color: #E2E8F0;
 }
 
-/*.overview-hero-image{
+.overview-hero-image{
+    width: 150px;
     
-}*/
+}
 
 .overview-hero-text{
     text-align: right;
@@ -89,7 +90,7 @@ header a:hover{
     color: white;
 }
 
-.cta > .btn{
+.cta .btn{
     background-color: #48BB78;
 }
 
