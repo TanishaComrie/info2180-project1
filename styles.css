@@ -42,7 +42,7 @@ a:hover{
     box-shadow: 5px 5px #E2E8F0;
 }
 
-.learn-about>h3{
+.learn-about> h3{
     color: #48BB78;
     font-size: 21px;
 }
@@ -52,7 +52,7 @@ a:hover{
     color: white;
 }
 
-#cta{
+.cta{
     background-color: #48BB78;
     box-shadow: 5px 5px;
 }
