@@ -50,9 +50,9 @@ header a:hover{
     background-color: #E2E8F0;
 }
 
-.overview-hero-image{
+/*.overview-hero-image{
     
-}
+}*/
 
 .overview-hero-text{
     text-align: right;
@@ -67,6 +67,10 @@ header a:hover{
     display: grid;
     grid-template-columns: auto auto auto;
     gap: 10px;
+}
+
+.card img{
+    width: 50px;
 }
 
 .body-card{
