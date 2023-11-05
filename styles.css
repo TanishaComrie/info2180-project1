@@ -116,6 +116,10 @@ header a:hover{
     align-content: center;
     display: block;
 }
+
+.newsletter h1,p{
+    align-items: center;
+}
 .btn{
     color: white;
     background-color: #5A67D8;
