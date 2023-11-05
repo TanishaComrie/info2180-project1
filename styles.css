@@ -89,7 +89,7 @@ header a:hover{
     color: white;
 }
 
-.cta #btn{
+.cta > .btn{
     background-color: #48BB78;
 }
 
