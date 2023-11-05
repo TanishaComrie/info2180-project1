@@ -24,7 +24,6 @@ header {
     background-color: blue;
     font-size: 18px;
     display: inline-block;
-    margin:50px 25px 50px 25px;
 }
 
 ul{
@@ -32,12 +31,12 @@ ul{
     overflow: hidden;
     margin:0;
     padding:0;
-    float: right;
 }
 
 li{
     display: inline;
     nav-right: auto;
+    float: right;
 }
 
 li a{
