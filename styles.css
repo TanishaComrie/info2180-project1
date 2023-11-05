@@ -28,7 +28,6 @@ header {
 }
 
 ul{
-    background-color: #6b7280;
     list-style-type: none;
     margin:0;
     padding:0;
@@ -37,6 +36,12 @@ ul{
 li{
     display: inline;
     float: right;
+}
+
+li a{
+    display: block;
+    background-color: #6b7280;
+    padding: 15px;
 }
 
 header a:hover{
