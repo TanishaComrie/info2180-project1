@@ -72,11 +72,11 @@ header a:hover{
 
 .card img{
     width: 150px;
-    background-color: #48BB78;
 }
 
 .body-card{
     box-shadow: 5px 5px #E2E8F0;
+    background-color: #48BB78;
 }
 
 .learn-about h3{
