@@ -34,7 +34,7 @@ ul{
 
 li{
     display: inline;
-    float: left;
+    text-align: right;
 }
 
 li a{
