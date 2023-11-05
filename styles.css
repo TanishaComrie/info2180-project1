@@ -57,15 +57,15 @@ a:hover{
     box-shadow: 5px 5px;
 }
 
-.stories > h2{
+.stories h2{
     color: #5A67D8;
 }
 
-.stories > h3{
+.stories h3{
     font-size: 18px;
 }
 
-.stories > a{
+.stories a{
     color: #5A67D8;
 }
 
