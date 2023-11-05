@@ -113,6 +113,8 @@ article img{
 
 article img, .article-body{
     display: inline;
+    padding: 10px;
+    border: none;
 }
 
 .newsletter{
