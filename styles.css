@@ -23,11 +23,12 @@ html {
 header {
     background-color: white;
     font-size: 18px;
+    display: inline-block;
+    margin: 1000px 500px 1000px 500px;
 }
 
 header a{
     text-align: right;
-    display: inline-block;
     background-color: #6b7280;
 }
 
