@@ -118,7 +118,7 @@ header a:hover{
 }
 
 .newsletter h1,p{
-    align-items: center;
+    text-align: center;
 }
 .btn{
     color: white;
