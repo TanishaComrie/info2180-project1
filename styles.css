@@ -50,9 +50,8 @@ header a:hover{
     background-color: #E2E8F0;
 }
 
-.overview-hero-image{
-    width: 150px;
-    
+.overview-hero .img{
+    width: 150px;    
 }
 
 .overview-hero-text{
