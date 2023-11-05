@@ -110,11 +110,8 @@ article img{
     border-radius: 50%;
 }
 
-article-body{
-    float: left;
-}
 
-article img, article-body{
+article img, .article-body{
     display: inline;
 }
 
