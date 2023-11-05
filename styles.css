@@ -11,7 +11,7 @@ body {
 }
 
 header h1{
-    text-align: left;
+    float: left;
 }
 
 html {
@@ -28,11 +28,15 @@ header {
 }
 
 ul{
-    text-align: right;
     background-color: #6b7280;
     list-style-type: none;
     margin:0;
     padding:0;
+}
+
+li{
+    display: inline;
+    float: right;
 }
 
 header a:hover{
