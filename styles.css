@@ -48,13 +48,14 @@ header a:hover{
 
 .overview-hero{
     background-color: #E2E8F0;
+    display:inline;
 }
 
 .overview-hero .img{
     width: 2px;    
 }
 
-.overview-hero-text h2,p{
+.overview-hero-text h2{
     text-align: right;
 }
 
