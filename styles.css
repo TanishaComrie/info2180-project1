@@ -27,17 +27,26 @@ header {
     margin: 10px 100px 10px 100px;
 }
 
-header a{
+ul{
     text-align: right;
     background-color: #6b7280;
+    list-style-type: none;
 }
 
 header a:hover{
     background-color: #5A67D8;
 }
 
-#overview-hero{
+.overview-hero{
     background-color: #E2E8F0;
+}
+
+.overview-hero-image{
+    
+}
+
+.overview-hero-text{
+    text-align: right;
 }
 
 .learn-about h2{
