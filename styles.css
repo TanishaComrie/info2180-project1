@@ -110,9 +110,9 @@ article img{
     border-radius: 50%;
 }
 
-/*#pic{
-    border-radius: ;
-}*/
+article-body{
+    float: left;
+}
 
 .newsletter{
     background-color: #48BB78;
