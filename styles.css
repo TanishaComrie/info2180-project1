@@ -65,6 +65,8 @@ header a:hover{
 
 .card{
     display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
 }
 
 .body-card{
