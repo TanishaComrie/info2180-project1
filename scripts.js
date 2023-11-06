@@ -1,6 +1,6 @@
 /* Add your JavaScript to this file */
 window.onload = function(){
-    message();   
+    document.getElementsByClassName("btn").onclick = function() {message()};
 } 
 
 function message(){
@@ -12,5 +12,9 @@ function message(){
         alert("Thank you! Your email address `<example@address.com>` has been added to our mailing list!");
 
     }
-        
 }
+
+    
+
+        
+        
