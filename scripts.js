@@ -1,5 +1,5 @@
 /* Add your JavaScript to this file */
-window.onload = function(){
+function run (){
     if (document.querySelector('button[type="submit"]')) {
     message();
     }
