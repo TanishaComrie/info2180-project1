@@ -1,6 +1,7 @@
 /* Add your JavaScript to this file */
 window.onload = function(){
-    document.querySelector('button[type="submit"]').onclick = function() {message()};
+    document.querySelector('button[type="submit"]');
+    message();
 } 
 
 function message(){
