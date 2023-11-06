@@ -53,9 +53,12 @@ header a:hover{
 }
 
 .overview-hero .img{
-    width: 2px;    
+    width: 25%;    
 }
-
+.overview-hero-image, .overview-hero-text{
+    display:inline;
+    overflow: hidden;
+}
 
 .learn-about h2{
     color: #48BB78;
