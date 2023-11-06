@@ -109,13 +109,17 @@ header a:hover{
     color: #5A67D8;
 }
 
+article{
+    padding: 10px;
+}
 article img{
     border-radius: 50%;
     width:200px;
+    float:left;
 }
 
 
-article img, .article-body{
+.article-body{
     display: inline;
     padding: 10px;
     border: none;
