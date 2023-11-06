@@ -95,6 +95,10 @@ header a:hover{
     padding: 20px;
 }
 
+.testing-desciption{
+    float:left;
+}
+
 
 .cta .btn{
     background-color: #48BB78;
