@@ -86,13 +86,13 @@ header a:hover{
 .learn-about h3{
     color: #48BB78;
     font-size: 21px;
+    float: left;
 }
 
 .testing{
     background-color: #4A5568;
     color: white;
     text-align: center;
-    float: left;
     display:inline;
     overflow: hidden;
 }
@@ -100,7 +100,6 @@ header a:hover{
 
 .cta .btn{
     background-color: #48BB78;
-    float: right;
 }
 
 .stories h2{
