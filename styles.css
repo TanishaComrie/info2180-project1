@@ -23,6 +23,7 @@ html {
 header {
     background-color: white;
     font-size: 18px;
+    gap: 10px;
 }
 
 ul{
