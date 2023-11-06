@@ -23,7 +23,6 @@ html {
 header {
     background-color: white;
     font-size: 18px;
-    gap: 10px;
 }
 
 ul{
@@ -50,6 +49,7 @@ header a:hover{
 .overview-hero{
     background-color: #E2E8F0;
     padding: 10px;
+    align-content: center;
 }
 
 .overview-hero img{
