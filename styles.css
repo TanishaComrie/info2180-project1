@@ -71,7 +71,7 @@ header a:hover{
 
 .cards{
     display: grid;
-    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-columns: 33.3%;
     background-color: blue;
     box-shadow: 5px 5px #E2E8F0;
 }
