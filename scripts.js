@@ -5,8 +5,9 @@ window.onload = function(){
 } 
 
 function message(){
-    let e_mail = document.forms["email"].value;
-    if (x == ""){
+    let e_mail = document.getElementById("email");
+    let value = e_mail.value;
+    if (value == ""){
         alert("Please enter a valid email address.");
     }
     else{
