@@ -1,6 +1,6 @@
 /* Add your JavaScript to this file */
 window.onload = function(){
-    if (document.querySelector('button[type="submit"]') == true) {
+    if (document.querySelector('button[type="submit"]')) {
     message();
     }
 } 
