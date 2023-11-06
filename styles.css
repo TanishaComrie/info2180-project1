@@ -114,6 +114,9 @@ header a:hover{
 
 .cta .btn{
     background-color: #48BB78;
+    display:inline;
+    padding: 10px;
+    border: none;
 }
 
 .stories h2{
@@ -160,11 +163,10 @@ article img{
     background-color: #5A67D8;
 }
 
-.form-group, .newsletter.btn{
+.form-group, .newsletter .btn{
     display:inline;
     padding: 10px;
     border: none;
-    float: right;
 }
 
 footer{
