@@ -137,6 +137,7 @@ article img{
     color: white;
     align-content: center;
     display: block;
+    padding: 20px;
 }
 
 .newsletter h3,p{
