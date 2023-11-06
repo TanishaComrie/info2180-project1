@@ -71,9 +71,8 @@ header a:hover{
 
 .cards{
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 33.3% 33.3% 33.3%;
     background-color: blue;
-    grid-gap: 10px;
     box-shadow: 5px 5px #E2E8F0;
 }
 
@@ -81,9 +80,9 @@ header a:hover{
     width: 150px;
 }
 
-/*.body-card{
-    
-}*/
+.card{
+    background-color: green;
+}
 
 .learn-about h3{
     color: #48BB78;
