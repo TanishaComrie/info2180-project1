@@ -117,6 +117,7 @@ header a:hover{
     display:inline;
     padding: 10px;
     border: none;
+    float: right;
 }
 
 .stories h2{
