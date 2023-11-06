@@ -6,10 +6,10 @@ window.onload = function(){
 function message(){
     let e_mail = document.forms["email"].value;
     if (x == ""){
-        return "Please enter a valid email address.";
+        alert("Please enter a valid email address.");
     }
     else{
-        return "Thank you! Your email address `<example@address.com>` has been added to our mailing list!";
+        alert("Thank you! Your email address `<example@address.com>` has been added to our mailing list!");
 
     }
         
