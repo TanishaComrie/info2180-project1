@@ -84,6 +84,7 @@ header a:hover{
 
 .card{
     background-color: green;
+    padding: 5px;
 }
 
 .learn-about h3{
