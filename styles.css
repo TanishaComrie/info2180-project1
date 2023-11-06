@@ -52,8 +52,8 @@ header a:hover{
     overflow: hidden;
 }
 
-.overview-hero > .img{
-    width: 5%;    
+.overview-hero .img{
+    width: 50px;    
 }
 .overview-hero-image, .overview-hero-text{
     display:inline;
