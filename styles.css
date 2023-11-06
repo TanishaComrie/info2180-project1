@@ -74,7 +74,7 @@ header a:hover{
     grid-template-columns: 25% 25% 25%;
     grid-template-rows: 100%;
     background-color: blue;
-    column-gap: 5px;
+    column-gap: 10px;
     box-shadow: 5px 5px #E2E8F0;
 }
 
