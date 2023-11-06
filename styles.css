@@ -48,12 +48,13 @@ header a:hover{
 
 .overview-hero{
     background-color: #E2E8F0;
-    padding: 20px;
+    padding: 10px;
 }
 
 .overview-hero img{
-    width: 200px; 
-    float: left; 
+    width: 225px; 
+    float: left;
+    padding: 10px;
 } 
 
 .overview-hero-text{
