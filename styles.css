@@ -92,7 +92,11 @@ header a:hover{
 .testing{
     background-color: #4A5568;
     color: white;
+    float: left;
+    display:inline;
+    overflow: hidden;
 }
+
 
 .cta .btn{
     background-color: #48BB78;
