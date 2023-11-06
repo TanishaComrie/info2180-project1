@@ -48,7 +48,7 @@ header a:hover{
 
 .overview-hero{
     background-color: #E2E8F0;
-    float: left;
+    padding: 20px;
 }
 
 .overview-hero img{
