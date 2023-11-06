@@ -23,6 +23,7 @@ html {
 header {
     background-color: white;
     font-size: 18px;
+    padding: 18px;
 }
 
 ul{
@@ -39,7 +40,7 @@ li{
 li a{
     display: block;
     background-color: #6b7280;
-    padding: 20px;
+    padding: 18px;
 }
 
 header a:hover{
