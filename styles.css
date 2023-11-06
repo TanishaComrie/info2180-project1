@@ -73,7 +73,6 @@ header a:hover{
     display: grid;
     grid-template-columns: 25% 25% 25%;
     grid-template-rows: 95%;
-    background-color: blue;
     column-gap: 10px;
     box-shadow: 5px 5px #E2E8F0;
 }
@@ -87,7 +86,6 @@ header a:hover{
 }
 
 .card{
-    background-color: green;
     padding: 10px;
     border-color: #E2E8F0;
     border-radius: 5px;
