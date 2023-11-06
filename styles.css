@@ -160,11 +160,11 @@ article img{
     background-color: #5A67D8;
 }
 
-.form-group, .btn{
+.form-group, .newsletter.btn{
     display:inline;
     padding: 10px;
     border: none;
-    float: left;
+    float: right;
 }
 
 footer{
