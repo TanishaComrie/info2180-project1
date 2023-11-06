@@ -56,7 +56,8 @@ header a:hover{
 } 
 
 .overview-hero-text{
-    float: left;
+    display:inline;
+    overflow: hidden;
 }
 
 .learn-about h2{
