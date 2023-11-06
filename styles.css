@@ -164,7 +164,7 @@ article img{
     display:inline;
     padding: 10px;
     border: none;
-    align-content: center;
+    float: left;
 }
 
 footer{
