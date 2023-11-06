@@ -50,6 +50,7 @@ header a:hover{
 .overview-hero{
     background-color: #E2E8F0;
     padding: 40px;
+    align-content: center;
 }
 
 .overview-hero img{
