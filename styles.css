@@ -103,19 +103,18 @@ header a:hover{
     color: white;
     padding: 30px;
     border-radius: 5px;
-    display:inline;
 }
 
 .testing-desciption{
     float:left;
-    
+    display:inline;
     overflow: hidden;    
 }
 
 
 .cta .btn{
     background-color: #48BB78;
-
+    float: right;
 }
 
 .stories h2{
