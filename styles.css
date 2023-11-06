@@ -97,6 +97,8 @@ header a:hover{
 
 .testing-desciption{
     float:left;
+    display:inline;
+    overflow: hidden;    
 }
 
 
