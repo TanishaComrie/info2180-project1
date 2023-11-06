@@ -11,7 +11,7 @@ function message(){
         alert("Please enter a valid email address.");
     }
     else{
-        alert("Thank you! Your email address `<example@address.com>` has been added to our mailing list!");
+        alert("Thank you! Your email address", value, "has been added to our mailing list!");
 
     }
 }
